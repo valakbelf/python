@@ -14,6 +14,10 @@ print(idade)
 print(nome)
 print(altura)
 print(pessoa)
-
-
-
+print(ano_nascimento)
+print(salario)
+print(temperatura)
+print(aprovado)
+print(reprovado)
+print(horas_trabalhadas)
+print(nota1)
